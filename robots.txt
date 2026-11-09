@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add sitemap URL after the final public domain is confirmed.
